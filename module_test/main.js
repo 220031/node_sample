@@ -1,6 +1,6 @@
-// モジュールの読み込み
-const itemModule = require('./items')
+// モジュール読み込み
+const itemsModule = require('./items')
 const controlModule = require('./control')
 
-var items = itemModule.items
+var items = itemsModule.itmes
 controlModule.show(items)

@@ -1,6 +1,2 @@
 // モジュール化
-exports.items = [
-    'Apple',
-    'Orange',
-    'Peach',
-]
+exports.itmes = ['Apple', 'Orange', 'Peach']
